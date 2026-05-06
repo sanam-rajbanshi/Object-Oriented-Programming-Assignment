@@ -1,0 +1,4 @@
+Hello World this is a Java programming file
+We are learning file handling in Java Workshop 8
+BufferedReader and BufferedWriter are very useful classes
+File input and output operations are important in Java

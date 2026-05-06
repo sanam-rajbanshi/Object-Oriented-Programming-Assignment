@@ -1,0 +1,9 @@
+product;price
+Laptop;40000.0
+SmartPhone;50000.0
+SmartPhone;60000.0
+Laptop;80000
+Tablet;30000
+Tablet;45000
+SmartWatch;25000
+SmartWatch;35000

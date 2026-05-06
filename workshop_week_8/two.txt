@@ -1,0 +1,5 @@
+Hello, this is the content of one.txt file.
+This file is used for reading and copying.
+Java File Handling Workshop - 8
+BufferedInputStream and BufferedOutputStream example.
+Learning file I/O in Java is very important.
